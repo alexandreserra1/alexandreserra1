@@ -19,12 +19,11 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
+
 <p align="center">
-  <img src="url_da_imagem_estática_do_Gon" alt="Gon de Hunter x Hunter">
-  <br>
-  <em>Gon Freecss de "Hunter x Hunter"</em>
-  <br>
-  <img src="url_da_imagem_de_um_fliperama" alt="Fliperama">
-  <br>
-  <em>Jogando no fliperama</em>
+  <img src="https://mcdn.wallpapersafari.com/medium/87/94/pt0Gq6.png" alt="Gon Freecss" width="200">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/tJMlRsC.gif" alt="Fliperama" width="200">
 </p>
