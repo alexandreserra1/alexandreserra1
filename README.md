@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/alexandreapserra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<p align="center">Desenvolvedor Front-End apaixonado por tecnologia</p>
+<p align="center">Front-end developer</p>
 
 <h2>🚀 Linguagens e Ferramentas</h2>
 <p align="center">
@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
-<img src="https://mcdn.wallpapersafari.com/medium/87/94/pt0Gq6.png" width="250" height="188">
 
 
 <img src="https://i.imgur.com/tJMlRsC.gif" width="400" height="300">
