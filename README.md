@@ -22,5 +22,6 @@
 
 ![Gon](https://mcdn.wallpapersafari.com/medium/87/94/pt0Gq6.png)
 
-<img src="https://i.imgur.com/tJMlRsC.gif" width="200" height="200">
+<img src="https://i.imgur.com/tJMlRsC.gif" width="400" height="300">
+
 
