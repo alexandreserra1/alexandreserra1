@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
-![Gon](https://mcdn.wallpapersafari.com/medium/87/94/pt0Gq6.png)
+<img src="https://mcdn.wallpapersafari.com/medium/87/94/pt0Gq6.png" width="200" height="150">
 
 <img src="https://i.imgur.com/tJMlRsC.gif" width="400" height="300">
 
