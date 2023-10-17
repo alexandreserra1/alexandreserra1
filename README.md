@@ -20,11 +20,11 @@
 </p>
 
 <p align="center">
-  <img src="url_da_sua_gif_do_Gon" alt="Gon de Hunter x Hunter">
+  <img src="url_da_imagem_estática_do_Gon" alt="Gon de Hunter x Hunter">
   <br>
   <em>Gon Freecss de "Hunter x Hunter"</em>
   <br>
-  <img src="url_da_sua_imagem_do_jogo_de_fliperama" alt="Fliperama">
+  <img src="url_da_imagem_de_um_fliperama" alt="Fliperama">
   <br>
   <em>Jogando no fliperama</em>
 </p>
