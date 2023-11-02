@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/alexandreapserra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<p align="center">Front-end developer</p>
+<p align="center"></p>
 
 <h2>🚀 Linguagens e Ferramentas</h2>
 <p align="center">
