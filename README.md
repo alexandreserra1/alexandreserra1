@@ -22,9 +22,6 @@
 
 
 
-<div style="text-align: center;">
-  <img src="https://i.imgur.com/tJMlRsC.gif" width="400" height="300" style="margin: 0 auto;">
-</div>
 
 
 
