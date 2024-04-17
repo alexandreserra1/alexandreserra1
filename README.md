@@ -1,13 +1,14 @@
 <h1 align="center">### Hi, I'm Alexandre Serra 👋</h1>
 <p align="center">
     I'm a front-end developer and a student in Analysis and Systems Development. I have experience with various modern technologies and I'm constantly improving my coding skills.
-    <br>
+    <br><br>
     - 🔭 I'm currently working on the fullstack part, learning more about the software every day (in addition, I'm improving my data structures and algorithm skills regularly).
-    <br>
+    <br><br>
     - 🌱 I'm currently honing my skills in systems analysis and development, focusing on building efficient and scalable applications.
-    <br>
+    <br><br>
     - 🤝 I am looking to collaborate on projects in data science, programming, and deep learning.
 </p>
+
 
 <p align="center">
   <a href="https://github.com/alexandreserra1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
