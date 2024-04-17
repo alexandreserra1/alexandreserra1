@@ -1,13 +1,14 @@
 <h1 align="center">### Hi, I'm Alexandre Serra 👋</h1>
 <p align="center">
-    I'm a front-end developer and a student in Analysis and Systems Development. I have experience with various modern technologies and I'm constantly improving my coding skills.
+    Front-end developer and student in Analysis and Systems Development. I have experience with various modern technologies and constantly improve my coding skills.
     <br><br>
-    - 🔭 I'm currently working on the fullstack part, learning more about the software every day (in addition, I'm improving my data structures and algorithm skills regularly).
+    - 🔭 Currently working on fullstack projects, learning more about software every day. Additionally, improving data structures and algorithm skills regularly.
     <br><br>
-    - 🌱 I'm currently honing my skills in systems analysis and development, focusing on building efficient and scalable applications.
+    - 🌱 Honing skills in systems analysis and development, focusing on building efficient and scalable applications.
     <br><br>
-    - 🤝 I am looking to collaborate on projects in data science, programming, and deep learning.
+    - 🤝 Looking to collaborate on projects in data science, programming, and deep learning.
 </p>
+
 
 
 <p align="center">
