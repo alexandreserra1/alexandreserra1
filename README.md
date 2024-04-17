@@ -4,7 +4,7 @@
     <br>
     - 🔭 I'm currently working on the fullstack part, learning more about the software every day (in addition, I'm improving my data structures and algorithm skills regularly).
     <br>
-    - 🌱  I'm currently learning systems analysis and development.
+    - 🌱 I'm currently honing my skills in systems analysis and development, focusing on building efficient and scalable applications.
     <br>
     - 🤝 I am looking to collaborate on projects in data science, programming, and deep learning.
 </p>
