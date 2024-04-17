@@ -1,12 +1,12 @@
 <h1 align="center">### Hi, I'm Alexandre Serra 👋</h1>
 <p align="center">
-    I'm a front-end developer with experience in various modern technologies. I'm always looking for opportunities to collaborate on projects related to web development, interface design, and interactivity.
+    I'm a front-end developer and a student in Analysis and Systems Development. I have experience with various modern technologies and I'm constantly improving my coding skills.
     <br>
-    - 🔭 I am currently working on projects with JavaScript frameworks such as React and Next.js.
+    - 🔭 I'm currently working on the fullstack part, learning more about the software every day (in addition, I'm improving my data structures and algorithm skills regularly).
     <br>
-    - 🌱 I am improving my skills in Tailwind CSS and TypeScript.
+    - 🌱  I'm currently learning systems analysis and development.
     <br>
-    - 🤝 I am looking to collaborate on innovative projects and interact with other developers to learn and grow.
+    - 🤝 I am looking to collaborate on projects in data science, programming, and deep learning.
 </p>
 
 <p align="center">
