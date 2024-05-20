@@ -1,6 +1,6 @@
 <h1 align="center">### Hi, I'm Alexandre Serra 👋</h1>
 <p align="center">
-    Front-end developer and student in Analysis and Systems Development. I have experience with various modern technologies and constantly improve my coding skills.
+    Software Engineer and student in Analysis and Systems Development. I have experience with various modern technologies and constantly improve my coding skills.
     <br><br>
     - 🔭 Currently working on fullstack projects, learning more about software every day. Additionally, improving data structures and algorithm skills regularly.
     <br><br>
