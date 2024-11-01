@@ -1,12 +1,15 @@
-<h1 align="center">### Hi, I'm Alexandre Serra 👋</h1>
+<h1 align="center">Hi, I'm Alexandre Serra 👋</h1>
+
 <p align="center">
     Software Engineer and student in Analysis and Systems Development. I have experience with various modern technologies and constantly improve my coding skills.
+</p>
+
+<p align="center">
+    <strong>🔭 Currently working on fullstack projects</strong>, learning more about software every day. Additionally, improving data structures and algorithm skills regularly.
     <br><br>
-    - 🔭 Currently working on fullstack projects, learning more about software every day. Additionally, improving data structures and algorithm skills regularly.
+    <strong>🌱 Honing skills in systems analysis and development</strong>, focusing on building efficient and scalable applications.
     <br><br>
-    - 🌱 Honing skills in systems analysis and development, focusing on building efficient and scalable applications.
-    <br><br>
-    - 🤝 Looking to collaborate on projects in data science, programming, and deep learning.
+    <strong>🤝 Looking to collaborate</strong> on projects in data science, programming, and deep learning.
 </p>
 
 
