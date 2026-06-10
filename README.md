@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-    <strong>🔭 O que eu faço:</strong> Desenvolvimento fullstack e engenharia de dados (ETL, Data Warehouses) com foco em processamento e alta performance.<br><br>
-    <strong>🌱 Minha stack e foco:</strong> Python, Go, Rust, TypeScript, Clean Architecture e Domain-Driven Design (DDD). Trabalhando com ecossistemas modernos de front e back, além de ferramentas como DuckDB e ClickHouse.<br><br>
+    <strong>🔭 O que eu faço:</strong> Desenvolvimento fullstack e engenharia de dados (ETL, Data Warehouses) com foco em processamento, geometria rural e alta performance.<br><br>
+    <strong>🌱 Minha stack e foco:</strong> Python, Go, Rust, TypeScript e JavaScript. No dia a dia, aplico conceitos de Clean Architecture e Domain-Driven Design (DDD) trabalhando com ecossistemas como Django, PostGIS, DuckDB e ClickHouse.<br><br>
     <strong>⚡ Um pouco mais sobre mim:</strong> Quando não estou lidando com a branch master, você provavelmente me encontra treinando CrossFit, jogando futevôlei ou estudando japonês.<br><br>
     <strong>🤝 Vamos trocar uma ideia:</strong> Sempre aberto a bater um papo sobre arquitetura de software, engenharia de dados e novos desafios.
 </p>
