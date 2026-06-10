@@ -6,7 +6,7 @@
 
 <p align="center">
     <strong>🔭 O que eu faço:</strong> Desenvolvimento fullstack e engenharia de dados (ETL, Data Warehouses) com foco em processamento, geometria rural e alta performance.<br><br>
-    <strong>🌱 Minha stack e foco:</strong> Python, Go, Rust, TypeScript e JavaScript. No dia a dia, aplico conceitos de Clean Architecture e Domain-Driven Design (DDD) trabalhando com ecossistemas como Django, PostGIS, DuckDB e ClickHouse.<br><br>
+    <strong>🌱 Minha stack e foco:</strong> Python, Go, Rust, C, C++, TypeScript e JavaScript. No dia a dia, aplico conceitos de Clean Architecture e Domain-Driven Design (DDD) trabalhando com ecossistemas como Django, PostGIS, DuckDB e ClickHouse.<br><br>
     <strong>⚡ Um pouco mais sobre mim:</strong> Quando não estou lidando com a branch master, você provavelmente me encontra treinando CrossFit, jogando futevôlei ou estudando japonês.<br><br>
     <strong>🤝 Vamos trocar uma ideia:</strong> Sempre aberto a bater um papo sobre arquitetura de software, engenharia de dados e novos desafios.
 </p>
@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   
